@@ -16,8 +16,8 @@ El objetivo es proporcionar a los asistentes una comprensión clara de las **opo
 
 Estos recursos han sido generados con ayuda de ChatGPT.
 
-- [Escaleta](Escaleta.md)
-- [Charla](Speech.md)
-- [Recursos para estudiar](Recursos-de-estudio.md)
-- [Consejos para el CV](Consejos-CV.md)
-- [Busqueda de empleo](Busqueda-de-empleo.md)
+- [Escaleta](./docs/Escaleta.md)
+- [Charla](./docs/Speech.md)
+- [Recursos para estudiar](./docs/Recursos-de-estudio.md)
+- [Consejos para el CV](./docs/Consejos-CV.md)
+- [Busqueda de empleo](./docs/Busqueda-de-empleo.md)
